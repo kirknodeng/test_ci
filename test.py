@@ -5,4 +5,4 @@ def test() :
 
 if "__main__" in __name__ : 
   
-  assert test() == "hello world"
+  assert test() == "hello_world"
